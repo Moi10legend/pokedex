@@ -1,0 +1,91 @@
+.bars {
+    margin-top: 2rem;   
+}
+
+.bars > div{
+    border-radius: 1rem;
+}
+
+.hp_bar{
+    
+    width: 14rem;
+    height: 1rem;
+    background-color: gainsboro;
+}
+
+.attack_bar{
+    margin-top: 1.9rem;
+    width: 14rem;
+    height: 1rem;
+    background-color: gainsboro;
+}
+
+.defense_bar{
+    margin-top: 1.9rem;
+    width: 14rem;
+    height: 1rem;
+    background-color: gainsboro;
+}
+
+.sp_atk_bar{
+    margin-top: 1.9rem;
+    width: 14rem;
+    height: 1rem;
+    background-color: gainsboro;
+}
+
+.sp_def_bar{
+    margin-top: 1.9rem;
+    width: 14rem;
+    height: 1rem;
+    background-color: gainsboro;
+}
+
+.speed_bar{
+    margin-top: 1.9rem;
+    width: 14rem;
+    height: 1rem;
+    background-color: gainsboro;
+}
+
+.percent_hp_bar{
+    background-color: #82C960;
+    width: 45%;
+    height: 100%;
+    border-radius: 1rem;
+}
+
+.percent_attack_bar{
+    background-color: #82C960;
+    width: 56%;
+    height: 100%;
+    border-radius: 1rem;
+}
+
+.percent_defense_bar{
+    background-color: #82C960;
+    width: 48%;
+    height: 100%;
+    border-radius: 1rem;
+}
+
+.percent_sp_atk_bar{
+    background-color: #82C960;
+    width: 27%;
+    height: 100%;
+    border-radius: 1rem;
+}
+
+.percent_sp_def_bar{
+    background-color: #82C960;
+    width: 45%;
+    height: 100%;
+    border-radius: 1rem;
+}
+
+.percent_speed_bar{
+    background-color: #82C960;
+    width: 34%;
+    height: 100%;
+    border-radius: 1rem;
+}
